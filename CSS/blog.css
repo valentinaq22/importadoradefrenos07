@@ -1,0 +1,10 @@
+#blog .contenedor {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+}
+
+.imagen-port {
+    margin: 20px;
+}
+
